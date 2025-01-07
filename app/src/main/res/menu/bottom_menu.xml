@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menjarsFragment"
+        android:icon="@drawable/baseline_fastfood_24"
+        android:title="@string/menjars" />
+
+    <item
+        android:id="@+id/begudesFragment"
+        android:icon="@drawable/baseline_emoji_food_beverage_24"
+        android:title="@string/begudes" />
+
+    <item
+        android:id="@+id/postresFragment"
+        android:icon="@drawable/baseline_cake_24"
+        android:title="@string/postres" />
+
+    <item
+        android:id="@+id/pagamentFragment"
+        android:icon="@drawable/baseline_credit_card_24"
+        android:title="@string/pagament" />
+</menu>

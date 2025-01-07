@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cafeteria</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menjars">Menjars</string>
+    <string name="begudes">Begudes</string>
+    <string name="postres">Postres</string>
+    <string name="pagament">Pagament</string>
+    <string name="delete_product_button">Delete Product Button</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_name">Product Name</string>
+    <string name="total_0">Total: 0.0€</string>
+    <string name="pagar">Pagar</string>
+</resources>
